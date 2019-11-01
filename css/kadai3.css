@@ -1,0 +1,23 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: red;
+}
+
+h2{
+    color: orange;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h3{
+    color: cornflowerblue;
+}
+
+p{
+    color: burlywood;
+}
+
+body{
+    background-image: url("../images/02.jfif");
+}

@@ -1,0 +1,32 @@
+h1{
+    color: white;
+    text-align: center;
+    background-color: darkturquoise;
+}
+
+h2{
+    color: orange;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+h3{
+    color: cornflowerblue;
+}
+
+p{
+    color: burlywood;
+}
+
+table{
+    text-align: center;
+    background-color: orange;
+}
+
+ol{
+    background-image: url("../images/03.jpg");
+}
+
+body{
+    background-image: url("../images/02.jfif");
+}

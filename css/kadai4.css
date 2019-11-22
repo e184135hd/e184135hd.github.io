@@ -1,0 +1,30 @@
+.a{
+    color: crimson;
+    background-color: plum;
+}
+
+.b {
+    color: antiquewhite;
+    background-color: aquamarine;
+}
+
+.c{
+    color: white;
+    font-size: 20px; 
+}
+
+h1{
+    color: white;
+    text-align: center;
+    background-color: red;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    background-color: yellow;
+}
+
+body{
+    background-image: url("../images/05.jfif");
+}

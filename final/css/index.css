@@ -1,0 +1,89 @@
+div.title{
+    width: 1000px;
+    height: 50px;
+    background-color: darkgray;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+span.menuitem{
+    width: 240px;
+    height: 40px;
+    background-color: cornsilk;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Impact";
+    display: inline-block;
+    vertical-align: top;
+    border: 5px dotted pink;
+}
+
+div.center{
+    width: 1000px;
+    height: 600;
+    background-color: azure;
+    font-size: 0px;
+    margin-top: 20px;
+}
+
+div.images{
+    display: inline-block;
+    vertical-align: top;
+    width: 480px;
+    height: 580px;
+    background-color: grey;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+div.image1{
+    width: 480px;
+    height: 290px;
+    background-color: red;
+    font-size: 20px;
+}
+
+div.image2{
+    width: 480px;
+    height: 280px;
+    background-color: red;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+
+div.p{
+    display: inline-block;
+    vertical-align: top;
+    width: 480px;
+    height: 580;
+    background-color: grey;
+    margin: 10px 10px 10px 20px;
+}
+
+div.p1{
+    width: 480px;
+    height: 290px;
+    background-color: skyblue;
+    font-size: 20px;
+}
+
+div.p2{
+    width: 480px;
+    height: 280px;
+    background-color: skyblue;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+div.footer{
+    width: 1000px;
+    height: 50px;
+    background-color: orange;
+    text-align: right;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+

@@ -41,17 +41,19 @@ div.images{
 div.image1{
     width: 480px;
     height: 290px;
-    background-image: url(../images/01.jfif);
+    background-image: url(../images/06.jfif);
     background-size: cover;
-    font-size: 40px;
-    color: red;
+    font-size: 20px;
+    color: fuchsia;
 }
 
 div.image2{
     width: 480px;
     height: 280px;
-    background-color: skyblue;
+    background-image: url(../images/08.jfif);
+    background-size: cover;
     font-size: 20px;
+    color:coral;
     margin-top: 10px;
 }
 
@@ -67,7 +69,7 @@ div.p{
 div.p1{
     width: 480px;
     height: 290px;
-    background-image: url(../images/02.jfif);
+    background-image: url(../images/07.jfif);
     background-size: cover;
     font-size: 20px;
     color: deeppink;
@@ -76,7 +78,7 @@ div.p1{
 div.p2{
     width: 480px;
     height: 280px;
-    background-image: url(../images/04.jfif);
+    background-image: url(../images/09.jfif);
     background-size: cover;
     color: red;
     font-size: 20px;
@@ -91,5 +93,3 @@ div.footer{
     font-size: 20px;
     margin-top: 20px;
 }
-
-
